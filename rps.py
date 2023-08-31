@@ -13,3 +13,7 @@ while True:
     # Tips: Använd and/or/nästlade if-satser för att förenkla koden
     # Extra: Lägg till att man spelar till 3 poäng istället för att spela oändligt.
 
+    
+
+
+
